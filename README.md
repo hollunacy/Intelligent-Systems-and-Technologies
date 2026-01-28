@@ -5,7 +5,7 @@ This repository contains a series of practical projects completed as part of the
 
 ## 📁 Projects  
 
-### **1. Project 1: Association Rule Mining**  
+### **Project 1: Association Rule Mining**  
 **Objectives:**  
 - Implement and compare association rule mining algorithms:  
   - Apriori  
@@ -25,7 +25,7 @@ This repository contains a series of practical projects completed as part of the
 - `pyarmviz` (for visualization)  
 
 
-### **2. Project 2: Non-linear Dimensionality Reduction**  
+### **Project 2: Non-linear Dimensionality Reduction**  
 **Objectives:**  
 - Apply non-linear dimensionality reduction algorithms to visualize high-dimensional data in 2D:  
   - t-SNE  
@@ -49,7 +49,7 @@ This repository contains a series of practical projects completed as part of the
 - `matplotlib`, `seaborn`  
 
 
-### **3. Project 3: Development of KNN, SVM, and RF Classifiers**  
+### **Project 3: Development of KNN, SVM, and RF Classifiers**  
 **Goal:** Build and compare K-Nearest Neighbors, Support Vector Machine, and Random Forest classifiers.  
 **Dataset:** University dataset (UCI Repository).  
 **Tasks:**  
@@ -60,7 +60,7 @@ This repository contains a series of practical projects completed as part of the
 **Results:** Comparison of model performance with visual insights.
 
 
-### **4. Project 4: Working with Sampling Strategies for Imbalanced Classes**  
+### **Project 4: Working with Sampling Strategies for Imbalanced Classes**  
 **Goal:** Apply oversampling techniques to handle class imbalance.  
 **Methods:** SMOTE, Borderline-SMOTE1, Borderline-SMOTE2.  
 **Tasks:**  
@@ -70,7 +70,7 @@ This repository contains a series of practical projects completed as part of the
 **Results:** Identification of the best balancing strategy for each classifier.
 
 
-### **5. Project 5: Evolutionary Optimization Algorithms**  
+### **Project 5: Evolutionary Optimization Algorithms**  
 **Goal:** Study and apply evolutionary algorithms for optimization.  
 **Algorithms:** Genetic Algorithm, Differential Evolution.  
 **Tasks:**  
@@ -80,7 +80,7 @@ This repository contains a series of practical projects completed as part of the
 **Results:** Performance comparison in terms of convergence speed, accuracy, and stability.
 
 
-### **6. Project 6: Exploratory and Cluster Analysis**  
+### **Project 6: Exploratory and Cluster Analysis**  
 **Goal:** Perform exploratory data analysis and clustering on multiple datasets.  
 **Datasets:**  
 - University dataset (known labels)  
@@ -94,7 +94,7 @@ This repository contains a series of practical projects completed as part of the
 **Results:** Identification of best clustering algorithms for each dataset with profiling of clusters.
 
 
-### **7. Project 7: Recurrent Neural Networks for Predictive Maintenance**  
+### **Project 7: Recurrent Neural Networks for Predictive Maintenance**  
 **Objectives:**  
 - Compare RNN, LSTM, and GRU architectures for predictive maintenance  
 - Evaluate models using:  
